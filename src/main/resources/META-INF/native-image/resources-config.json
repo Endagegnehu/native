@@ -1,0 +1,8 @@
+{
+    "resource": [
+        {
+            "pattern": "\\QMETA-INF/native-image/libxgboost4j.so\\E.*",
+            "exclude": []
+        }
+    ]
+}
